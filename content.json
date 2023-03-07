@@ -1,0 +1,132 @@
+[
+  {
+    "id": "5tMHL3jkrbSIuJwwggTdC1",
+    "genre": "groove",
+    "track_name": "These Arms of Mine",
+    "artist_name": "Otis Redding",
+    "valence": 0.711,
+    "energy": 0.286,
+    "mood_vec": [
+      0.711,
+      0.286
+    ],
+    "distances": 0.053075418038862406
+  },
+  {
+    "id": "5cO1oGqX8S2w96CwISPlLE",
+    "genre": "jazz",
+    "track_name": "Maple Leaf Rag",
+    "artist_name": "Scott Joplin",
+    "valence": 0.808,
+    "energy": 0.244,
+    "mood_vec": [
+      0.808,
+      0.244
+    ],
+    "distances": 0.05830951894845306
+  },
+  {
+    "id": "59YQ2ODxWIlphKx7dk1Am2",
+    "genre": "blues",
+    "track_name": "You Know My Love",
+    "artist_name": "Willie Dixon",
+    "valence": 0.828,
+    "energy": 0.279,
+    "mood_vec": [
+      0.828,
+      0.279
+    ],
+    "distances": 0.08321658488546615
+  },
+  {
+    "id": "3J5ce8XaFIRzFz67EcNdhy",
+    "genre": "tango",
+    "track_name": "Caricias",
+    "artist_name": "Various Artists",
+    "valence": 0.837,
+    "energy": 0.244,
+    "mood_vec": [
+      0.837,
+      0.244
+    ],
+    "distances": 0.08720665112249176
+  },
+  {
+    "id": "7LJz6DZS1tIRB06bbYbAPi",
+    "genre": "soul",
+    "track_name": "...& On",
+    "artist_name": "Erykah Badu",
+    "valence": 0.724,
+    "energy": 0.343,
+    "mood_vec": [
+      0.724,
+      0.343
+    ],
+    "distances": 0.09656603957913987
+  },
+  {
+    "id": "5KExE7nOdScwwMuvWYJKLm",
+    "genre": "bossanova",
+    "track_name": "Petite Fleur",
+    "artist_name": "Laurindo Almeida and The Bossa Nova All Stars",
+    "valence": 0.835,
+    "energy": 0.296,
+    "mood_vec": [
+      0.835,
+      0.296
+    ],
+    "distances": 0.09664884893261788
+  },
+  {
+    "id": "78EMhiyAcalWWtnpk20Eoo",
+    "genre": "show-tunes",
+    "track_name": "Honor To Us All",
+    "artist_name": "Mulan - Cast",
+    "valence": 0.652,
+    "energy": 0.242,
+    "mood_vec": [
+      0.652,
+      0.242
+    ],
+    "distances": 0.09832598842625481
+  },
+  {
+    "id": "1x2zQ4k5dK0oLI2cPnxuq3",
+    "genre": "bluegrass",
+    "track_name": "Brakeman's Blues",
+    "artist_name": "Bill Monroe & His Blue Grass Boys",
+    "valence": 0.729,
+    "energy": 0.365,
+    "mood_vec": [
+      0.729,
+      0.365
+    ],
+    "distances": 0.11690166808048548
+  },
+  {
+    "id": "0mdKKDJjmUVwnCHXzTiGdf",
+    "genre": "sad",
+    "track_name": "lousy truth",
+    "artist_name": "Never Shout Never",
+    "valence": 0.635,
+    "energy": 0.315,
+    "mood_vec": [
+      0.635,
+      0.315
+    ],
+    "distances": 0.13209844813622906
+  },
+  {
+    "id": "57TcSOqWS3AIsTb3BWlZjK",
+    "genre": "songwriter",
+    "track_name": "A Street",
+    "artist_name": "Leonard Cohen",
+    "valence": 0.708,
+    "energy": 0.378,
+    "mood_vec": [
+      0.708,
+      0.378
+    ],
+    "distances": 0.13471451295239129
+  }
+]

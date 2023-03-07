@@ -1,0 +1,132 @@
+[
+  {
+    "id": "2m4lvM8pTsQdii4Pi5Z2Yf",
+    "genre": "holidays",
+    "track_name": "April Snow",
+    "artist_name": "Various Artists",
+    "valence": 0.265,
+    "energy": 0.255,
+    "mood_vec": [
+      0.265,
+      0.255
+    ],
+    "distances": 0.01581138830084191
+  },
+  {
+    "id": "2UE1LplKFZwAQmDOMd2I5n",
+    "genre": "french",
+    "track_name": "La chanson des vieux amants",
+    "artist_name": "Jacques Brel",
+    "valence": 0.231,
+    "energy": 0.26,
+    "mood_vec": [
+      0.231,
+      0.26
+    ],
+    "distances": 0.021470910553583883
+  },
+  {
+    "id": "5KH8Bn8PLlJK1tgylE3oK9",
+    "genre": "holidays",
+    "track_name": "When a Child Is Born",
+    "artist_name": "Johnny Mathis",
+    "valence": 0.272,
+    "energy": 0.255,
+    "mood_vec": [
+      0.272,
+      0.255
+    ],
+    "distances": 0.022561028345356976
+  },
+  {
+    "id": "4oa14QBfWRDfJy2agySy0L",
+    "genre": "acoustic",
+    "track_name": "Gravity",
+    "artist_name": "Sara Bareilles",
+    "valence": 0.231,
+    "energy": 0.275,
+    "mood_vec": [
+      0.231,
+      0.275
+    ],
+    "distances": 0.03140063693621518
+  },
+  {
+    "id": "7J9ARWRkMtXMYeF8RxJEjn",
+    "genre": "country",
+    "track_name": "Don't Close Your Eyes",
+    "artist_name": "Keith Whitley",
+    "valence": 0.285,
+    "energy": 0.228,
+    "mood_vec": [
+      0.285,
+      0.228
+    ],
+    "distances": 0.04134005321718875
+  },
+  {
+    "id": "2FexpP6SQ8IXGPVjyckmaf",
+    "genre": "cantopop",
+    "track_name": "愛的根源",
+    "artist_name": "Alan Tam",
+    "valence": 0.208,
+    "energy": 0.261,
+    "mood_vec": [
+      0.208,
+      0.261
+    ],
+    "distances": 0.04341658669218483
+  },
+  {
+    "id": "2gCf9PqIvpKbxwfJMBWwbn",
+    "genre": "psych-rock",
+    "track_name": "Brain Damage - 2011 Remastered Version",
+    "artist_name": "Pink Floyd",
+    "valence": 0.207,
+    "energy": 0.265,
+    "mood_vec": [
+      0.207,
+      0.265
+    ],
+    "distances": 0.045541190146942814
+  },
+  {
+    "id": "28XLm6llbRcoD7YEJKwFe3",
+    "genre": "world-music",
+    "track_name": "Man Of Wool",
+    "artist_name": "Dhafer Youssef",
+    "valence": 0.208,
+    "energy": 0.279,
+    "mood_vec": [
+      0.208,
+      0.279
+    ],
+    "distances": 0.0510392006206994
+  },
+  {
+    "id": "2yM45OSoRjzbPQJ1hXFuov",
+    "genre": "turkish",
+    "track_name": "İstanbul'da Sonbahar",
+    "artist_name": "Nil Karaibrahimgil",
+    "valence": 0.299,
+    "energy": 0.205,
+    "mood_vec": [
+      0.299,
+      0.205
+    ],
+    "distances": 0.06652818951391958
+  },
+  {
+    "id": "5wLBkpEwHIlNZJaeh0s7bR",
+    "genre": "folk",
+    "track_name": "Hello My Old Heart",
+    "artist_name": "The Oh Hellos",
+    "valence": 0.297,
+    "energy": 0.299,
+    "mood_vec": [
+      0.297,
+      0.299
+    ],
+    "distances": 0.0678969807870718
+  }
+]

@@ -1,0 +1,11 @@
+id,genre,track_name,artist_name,valence,energy,mood_vec,distances
+4BfjFFeMHFNWGoDlWyrUO9,gospel,I Can't Hold It,Byron Cage,0.516,0.993,"[0.516, 0.993]",0.017464249196573
+0QKKwvhbT73URnlZfeR4Dx,j-rock,HITSUJI SAVE ME,misokkasu,0.481,0.973,"[0.481, 0.973]",0.033015148038438386
+1L6KRFCqkFkhutZTT68RhS,metal-misc,Death And The Labyrinth,At The Gates,0.514,0.97,"[0.514, 0.97]",0.03310589071449373
+6hLrlyozgBK6NPOsURddeW,heavy-metal,Black Ninja,Battle Beast,0.479,0.951,"[0.479, 0.951]",0.053310411741047406
+156oozyC0SdsnMrNnvMQQ1,breakbeat,Omen,The Prodigy,0.529,0.954,"[0.529, 0.954]",0.05437830449729014
+3F9kV8MiHSbtqo4Srkhw8n,industrial,I Sit On Acid - Original; 2002 Remastered Version,Lords Of Acid,0.536,0.959,"[0.536, 0.959]",0.05456189146281501
+1cnA8Zf6McVyoWTr8xf0Ml,heavy-metal,Stargazer,Rainbow,0.476,0.948,"[0.476, 0.948]",0.057271284253105466
+5BfleIMgLlfeqG5yqKyHz0,electro,Rattle - Original Mix,Various Artists,0.542,0.956,"[0.542, 0.956]",0.060827625302982254
+1GPWsvhUkIqCnzPsJOOisT,anime,素顔でKISS ME,"Wake Up, Girls!",0.476,0.939,"[0.476, 0.939]",0.0655515064662896
+3kaOkcdHDsWAobL8HcSui1,punk-rock,If These Sheets Were States,All Time Low,0.568,0.981,"[0.568, 0.981]",0.07060453243241537

@@ -1,0 +1,11 @@
+id,genre,track_name,artist_name,valence,energy,mood_vec,distances
+2p91NGZXyT7ZSJRigOH5QE,piano,Ave Maria,Various Artists,0.493,0.049,"[0.493, 0.049]",0.04949747468305833
+5frAZu6tdWC8tR9kbUJjij,folk,Made By Maid,Laura Marling,0.325,0.0807,"[0.325, 0.0807]",0.19271089746041867
+5TbePlmyX3nKD8LP9djCKu,malay,Menanti Di Ambang Syurga,Datuk Ahmad Jais,0.437,0.213,"[0.437, 0.213]",0.22212158832495324
+20uM0XClhB6PYrlFrZSMsG,rainy-day,Beautiful Girl,William Fitzsimmons,0.336,0.17,"[0.336, 0.17]",0.236211769393483
+277Q2UaF8FeL7WNWQgzdlk,singer-songwriter,Place To Be,Nick Drake,0.432,0.234,"[0.432, 0.234]",0.24368011818775862
+6dvNnlBj8DQEQE8YiqmccO,bossanova,Rapaz de Bem (Nice Guy),Carlos Lyra,0.307,0.153,"[0.307, 0.153]",0.24628844877500852
+7240PkTnUTQq5nEgyUxeyJ,bossanova,Monologo de Orfeu,Antônio Carlos Jobim,0.35,0.199,"[0.35, 0.199]",0.24920072231034968
+0lLdorYw7lVrJydTINhWdI,holidays,It's Beginning to Look a Lot like Christmas,Michael Bublé,0.363,0.214,"[0.363, 0.214]",0.2540964383851139
+4E0lSJ6c5unoku9UIZoJSl,chill,Dust in the Wind,Kansas,0.419,0.251,"[0.419, 0.251]",0.2637460900184115
+7iBSkXB0pTvZasOLf0Qxk9,rainy-day,Autumn Leaves - Deluxe Edition,Ed Sheeran,0.431,0.257,"[0.431, 0.257]",0.266101484400219

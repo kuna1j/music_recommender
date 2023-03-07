@@ -1,0 +1,132 @@
+[
+  {
+    "id": "4BfjFFeMHFNWGoDlWyrUO9",
+    "genre": "gospel",
+    "track_name": "I Can't Hold It",
+    "artist_name": "Byron Cage",
+    "valence": 0.516,
+    "energy": 0.993,
+    "mood_vec": [
+      0.516,
+      0.993
+    ],
+    "distances": 0.017464249196573
+  },
+  {
+    "id": "0QKKwvhbT73URnlZfeR4Dx",
+    "genre": "j-rock",
+    "track_name": "HITSUJI SAVE ME",
+    "artist_name": "misokkasu",
+    "valence": 0.481,
+    "energy": 0.973,
+    "mood_vec": [
+      0.481,
+      0.973
+    ],
+    "distances": 0.033015148038438386
+  },
+  {
+    "id": "1L6KRFCqkFkhutZTT68RhS",
+    "genre": "metal-misc",
+    "track_name": "Death And The Labyrinth",
+    "artist_name": "At The Gates",
+    "valence": 0.514,
+    "energy": 0.97,
+    "mood_vec": [
+      0.514,
+      0.97
+    ],
+    "distances": 0.03310589071449373
+  },
+  {
+    "id": "6hLrlyozgBK6NPOsURddeW",
+    "genre": "heavy-metal",
+    "track_name": "Black Ninja",
+    "artist_name": "Battle Beast",
+    "valence": 0.479,
+    "energy": 0.951,
+    "mood_vec": [
+      0.479,
+      0.951
+    ],
+    "distances": 0.053310411741047406
+  },
+  {
+    "id": "156oozyC0SdsnMrNnvMQQ1",
+    "genre": "breakbeat",
+    "track_name": "Omen",
+    "artist_name": "The Prodigy",
+    "valence": 0.529,
+    "energy": 0.954,
+    "mood_vec": [
+      0.529,
+      0.954
+    ],
+    "distances": 0.05437830449729014
+  },
+  {
+    "id": "3F9kV8MiHSbtqo4Srkhw8n",
+    "genre": "industrial",
+    "track_name": "I Sit On Acid - Original; 2002 Remastered Version",
+    "artist_name": "Lords Of Acid",
+    "valence": 0.536,
+    "energy": 0.959,
+    "mood_vec": [
+      0.536,
+      0.959
+    ],
+    "distances": 0.05456189146281501
+  },
+  {
+    "id": "1cnA8Zf6McVyoWTr8xf0Ml",
+    "genre": "heavy-metal",
+    "track_name": "Stargazer",
+    "artist_name": "Rainbow",
+    "valence": 0.476,
+    "energy": 0.948,
+    "mood_vec": [
+      0.476,
+      0.948
+    ],
+    "distances": 0.057271284253105466
+  },
+  {
+    "id": "5BfleIMgLlfeqG5yqKyHz0",
+    "genre": "electro",
+    "track_name": "Rattle - Original Mix",
+    "artist_name": "Various Artists",
+    "valence": 0.542,
+    "energy": 0.956,
+    "mood_vec": [
+      0.542,
+      0.956
+    ],
+    "distances": 0.060827625302982254
+  },
+  {
+    "id": "1GPWsvhUkIqCnzPsJOOisT",
+    "genre": "anime",
+    "track_name": "素顔でKISS ME",
+    "artist_name": "Wake Up, Girls!",
+    "valence": 0.476,
+    "energy": 0.939,
+    "mood_vec": [
+      0.476,
+      0.939
+    ],
+    "distances": 0.0655515064662896
+  },
+  {
+    "id": "3kaOkcdHDsWAobL8HcSui1",
+    "genre": "punk-rock",
+    "track_name": "If These Sheets Were States",
+    "artist_name": "All Time Low",
+    "valence": 0.568,
+    "energy": 0.981,
+    "mood_vec": [
+      0.568,
+      0.981
+    ],
+    "distances": 0.07060453243241537
+  }
+]

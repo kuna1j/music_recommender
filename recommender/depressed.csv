@@ -1,0 +1,11 @@
+id,genre,track_name,artist_name,valence,energy,mood_vec,distances
+2m4lvM8pTsQdii4Pi5Z2Yf,holidays,April Snow,Various Artists,0.265,0.255,"[0.265, 0.255]",0.01581138830084191
+2UE1LplKFZwAQmDOMd2I5n,french,La chanson des vieux amants,Jacques Brel,0.231,0.26,"[0.231, 0.26]",0.021470910553583883
+5KH8Bn8PLlJK1tgylE3oK9,holidays,When a Child Is Born,Johnny Mathis,0.272,0.255,"[0.272, 0.255]",0.022561028345356976
+4oa14QBfWRDfJy2agySy0L,acoustic,Gravity,Sara Bareilles,0.231,0.275,"[0.231, 0.275]",0.03140063693621518
+7J9ARWRkMtXMYeF8RxJEjn,country,Don't Close Your Eyes,Keith Whitley,0.285,0.228,"[0.285, 0.228]",0.04134005321718875
+2FexpP6SQ8IXGPVjyckmaf,cantopop,愛的根源,Alan Tam,0.208,0.261,"[0.208, 0.261]",0.04341658669218483
+2gCf9PqIvpKbxwfJMBWwbn,psych-rock,Brain Damage - 2011 Remastered Version,Pink Floyd,0.207,0.265,"[0.207, 0.265]",0.045541190146942814
+28XLm6llbRcoD7YEJKwFe3,world-music,Man Of Wool,Dhafer Youssef,0.208,0.279,"[0.208, 0.279]",0.0510392006206994
+2yM45OSoRjzbPQJ1hXFuov,turkish,İstanbul'da Sonbahar,Nil Karaibrahimgil,0.299,0.205,"[0.299, 0.205]",0.06652818951391958
+5wLBkpEwHIlNZJaeh0s7bR,folk,Hello My Old Heart,The Oh Hellos,0.297,0.299,"[0.297, 0.299]",0.0678969807870718

@@ -1,0 +1,11 @@
+id,genre,track_name,artist_name,valence,energy,mood_vec,distances
+0gsIQwgHmi1DGv1n2IipUr,work-out,Move,Little Mix,0.765,0.741,"[0.765, 0.741]",0.017492855684535916
+2kBpsXKH2hCUDslEcvS0FK,disco,Don’t Stop The Party,Black Eyed Peas,0.72,0.746,"[0.72, 0.746]",0.030265491900843138
+3X7Mbi6AVMjyCpAUT1Xyp1,children,Goodbye Song,Yo Gabba Gabba,0.781,0.77,"[0.781, 0.77]",0.036891733491393464
+5i7yNnwyGbRIXkwYVDjgNI,reggae,Nuh Linga,Elephant Man,0.712,0.754,"[0.712, 0.754]",0.03820994634908563
+5yEPktRqvIhko5QFF3aBhQ,children,Mean,Taylor Swift,0.789,0.761,"[0.789, 0.761]",0.04052159917870965
+7jtGa7FmUx7YxTbiy6tEsX,road-trip,Don't You (Forget About Me) - 2001 Remastered Version,Various Artists,0.718,0.777,"[0.718, 0.777]",0.04186884283091668
+4XsH9zBWPOCdXoH9ZDdS8r,funk,Superfly,Curtis Mayfield,0.748,0.708,"[0.748, 0.708]",0.04204759208325731
+37QuCMe2SASXrkLm5NhT5m,spanish,No Me Enseñaste,Thalia,0.788,0.73,"[0.788, 0.73]",0.042941821107167814
+5vefQfYc9Oxn8VHfgUCi1q,british,Fake Tales Of San Francisco,Arctic Monkeys,0.704,0.778,"[0.704, 0.778]",0.053851648071345085
+31dJeAt20CQu4hm3IcRaMY,post-dubstep,I'll Stay,James Blake,0.71,0.707,"[0.71, 0.707]",0.05872818744010414

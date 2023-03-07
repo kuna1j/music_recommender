@@ -1,0 +1,11 @@
+id,genre,track_name,artist_name,valence,energy,mood_vec,distances
+0USZx50eApN045zIIyjePN,pop,All The Time,Jeremih,0.0338,0.44,"[0.0338, 0.44]",0.0688653759156225
+1xqjLdtB558KjSo7zvOXua,deep-house,Stay,Henry Krinkle,0.0763,0.494,"[0.0763, 0.494]",0.07653554729666472
+13NQ17cpLr2fybZ38AkuCi,post-dubstep,Bête Noire,Hecq,0.0493,0.428,"[0.0493, 0.428]",0.08726104514615901
+2mkv1b3dRFyiJ4Ybq31owf,indie-pop,Hunger of the Pine,alt-J,0.0741,0.413,"[0.0741, 0.413]",0.11427952572530219
+67JcIsAxt2NKL1q9depQTP,metal,Still Loving You,Scorpions,0.11,0.536,"[0.11, 0.536]",0.1157410903698423
+4d560DBSLmj39LwHkIQP2K,philippines-opm,Kumusta Ka Aking Mahal,Jericho Rosales,0.116,0.471,"[0.116, 0.471]",0.11957006314291217
+0ILPyzPx7uyoAQ48iAixih,minimal-techno,Workaholic,Alesso,0.0948,0.586,"[0.0948, 0.586]",0.12799624994506673
+4mcDWFiTDWIPJmXytF38UQ,ambient,Death Of The Author,Jenny Hval,0.115,0.413,"[0.115, 0.413]",0.14420124826089406
+2BNs2roiKvfXMzBDOfXQHb,malay,Sembilu,Ella,0.136,0.552,"[0.136, 0.552]",0.1456021977856104
+7yfTZqfc7KVNvfmcYdcE4R,french,La vie ne m'apprend rien,Daniel Balavoine,0.143,0.44,"[0.143, 0.44]",0.15507740002979156

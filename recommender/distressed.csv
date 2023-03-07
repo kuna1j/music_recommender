@@ -1,0 +1,11 @@
+id,genre,track_name,artist_name,valence,energy,mood_vec,distances
+0BCPKOYdS2jbQ8iyB56Zns,sad,Clocks,Coldplay,0.255,0.749,"[0.255, 0.749]",0.00509901951359279
+2UE4m8egf0aREmOi47sDOk,garage,Next Girl,The Black Keys,0.255,0.748,"[0.255, 0.748]",0.005385164807134509
+57kR5SniQIbsbVoIjjOUDa,dance,You Know You Like It,DJ Snake,0.247,0.725,"[0.247, 0.725]",0.025179356624028364
+0aOsN4s79cU3m2dQoRk48s,j-rock,Progress,SHADOWS,0.284,0.766,"[0.284, 0.766]",0.03757658845611186
+4RdUpI3iTwqzCQe9ttKB5Q,dancehall,Other Side of Love,Sean Paul,0.261,0.793,"[0.261, 0.793]",0.04438468204234433
+5Az8KU81g2aLBbJN67F2CI,synth-pop,Mind Over Matter,Young the Giant,0.293,0.763,"[0.293, 0.763]",0.04492215489043239
+5z0QLEpkbUh00SevSuYxOh,psych-rock,Divine Moments of Truth,Shpongle,0.273,0.704,"[0.273, 0.704]",0.05142956348249521
+1dsdmblZO8CQN6mFtROzY3,garage,Never Again,Submerse,0.272,0.702,"[0.272, 0.702]",0.05280151512977639
+0PCRR19Pf4iiuvSrPxtQ0x,progressive-house,Sunshine,David Guetta,0.219,0.8,"[0.219, 0.8]",0.05883026432033095
+2ZQyksYO4zzhyHNcueL0CP,chill,Home,Phillip Phillips,0.293,0.792,"[0.293, 0.792]",0.06010823570859489

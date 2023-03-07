@@ -1,0 +1,11 @@
+id,genre,track_name,artist_name,valence,energy,mood_vec,distances
+1CqPzQJ64nkRpHmPdqRl9R,latino,Mujer de Piedra,Gerardo Ortiz,0.969,0.489,"[0.969, 0.489]",0.03289376840679708
+3EJ0Bi2xuE3Rv9EVcEIaze,samba,Cuanto Le Gusta,Carmen Miranda,0.966,0.487,"[0.966, 0.487]",0.03640054944640263
+1mHHHsnQ9XQsCf1qMEqH37,kids,Does Your Chewing Gum Lose Its Flavor On The Bedpost Overnight?,The Re-Bops,0.967,0.531,"[0.967, 0.531]",0.04527692569068712
+5jla2fhvErKAiUHG3fnRuv,reggae,Money In My Pocket,Dennis Brown,0.964,0.45,"[0.964, 0.45]",0.06161168720299746
+5ofoBxFkjWJ0EFJsgBVZk1,ska,Red Red Wine,Various Artists,0.939,0.489,"[0.939, 0.489]",0.06198386886924699
+6fAHmQSQkqiA098DRVheXY,tango,Mozo Guapo,Ricardo Tanturi,0.877,0.512,"[0.877, 0.512]",0.12358397954427588
+1aUUrBmdIYN7FvIzHdpisn,brazil,Zen,Anitta,0.908,0.59,"[0.908, 0.59]",0.1287012043455693
+7KZ5GAoYklpIHQrs9WV60H,bluegrass,Hear The Willow Cry,The Steeldrivers,0.902,0.589,"[0.902, 0.589]",0.13238202294873722
+0qNrKrghOyGtoXzjGBc14a,road-trip,I Won't Back Down,Tom Petty and the Heartbreakers,0.965,0.638,"[0.965, 0.638]",0.14236923825040296
+1ZOusIYPmggh5UrPJV835c,cantopop,一時無兩,Twins,0.946,0.646,"[0.946, 0.646]",0.1556663097783204

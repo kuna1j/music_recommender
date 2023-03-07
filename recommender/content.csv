@@ -1,0 +1,11 @@
+id,genre,track_name,artist_name,valence,energy,mood_vec,distances
+5tMHL3jkrbSIuJwwggTdC1,groove,These Arms of Mine,Otis Redding,0.711,0.286,"[0.711, 0.286]",0.053075418038862406
+5cO1oGqX8S2w96CwISPlLE,jazz,Maple Leaf Rag,Scott Joplin,0.808,0.244,"[0.808, 0.244]",0.05830951894845306
+59YQ2ODxWIlphKx7dk1Am2,blues,You Know My Love,Willie Dixon,0.828,0.279,"[0.828, 0.279]",0.08321658488546615
+3J5ce8XaFIRzFz67EcNdhy,tango,Caricias,Various Artists,0.837,0.244,"[0.837, 0.244]",0.08720665112249176
+7LJz6DZS1tIRB06bbYbAPi,soul,...& On,Erykah Badu,0.724,0.343,"[0.724, 0.343]",0.09656603957913987
+5KExE7nOdScwwMuvWYJKLm,bossanova,Petite Fleur,Laurindo Almeida and The Bossa Nova All Stars,0.835,0.296,"[0.835, 0.296]",0.09664884893261788
+78EMhiyAcalWWtnpk20Eoo,show-tunes,Honor To Us All,Mulan - Cast,0.652,0.242,"[0.652, 0.242]",0.09832598842625481
+1x2zQ4k5dK0oLI2cPnxuq3,bluegrass,Brakeman's Blues,Bill Monroe & His Blue Grass Boys,0.729,0.365,"[0.729, 0.365]",0.11690166808048548
+0mdKKDJjmUVwnCHXzTiGdf,sad,lousy truth,Never Shout Never,0.635,0.315,"[0.635, 0.315]",0.13209844813622906
+57TcSOqWS3AIsTb3BWlZjK,songwriter,A Street,Leonard Cohen,0.708,0.378,"[0.708, 0.378]",0.13471451295239129

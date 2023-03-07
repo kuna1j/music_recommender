@@ -1,0 +1,132 @@
+[
+  {
+    "id": "0gsIQwgHmi1DGv1n2IipUr",
+    "genre": "work-out",
+    "track_name": "Move",
+    "artist_name": "Little Mix",
+    "valence": 0.765,
+    "energy": 0.741,
+    "mood_vec": [
+      0.765,
+      0.741
+    ],
+    "distances": 0.017492855684535916
+  },
+  {
+    "id": "2kBpsXKH2hCUDslEcvS0FK",
+    "genre": "disco",
+    "track_name": "Don’t Stop The Party",
+    "artist_name": "Black Eyed Peas",
+    "valence": 0.72,
+    "energy": 0.746,
+    "mood_vec": [
+      0.72,
+      0.746
+    ],
+    "distances": 0.030265491900843138
+  },
+  {
+    "id": "3X7Mbi6AVMjyCpAUT1Xyp1",
+    "genre": "children",
+    "track_name": "Goodbye Song",
+    "artist_name": "Yo Gabba Gabba",
+    "valence": 0.781,
+    "energy": 0.77,
+    "mood_vec": [
+      0.781,
+      0.77
+    ],
+    "distances": 0.036891733491393464
+  },
+  {
+    "id": "5i7yNnwyGbRIXkwYVDjgNI",
+    "genre": "reggae",
+    "track_name": "Nuh Linga",
+    "artist_name": "Elephant Man",
+    "valence": 0.712,
+    "energy": 0.754,
+    "mood_vec": [
+      0.712,
+      0.754
+    ],
+    "distances": 0.03820994634908563
+  },
+  {
+    "id": "5yEPktRqvIhko5QFF3aBhQ",
+    "genre": "children",
+    "track_name": "Mean",
+    "artist_name": "Taylor Swift",
+    "valence": 0.789,
+    "energy": 0.761,
+    "mood_vec": [
+      0.789,
+      0.761
+    ],
+    "distances": 0.04052159917870965
+  },
+  {
+    "id": "7jtGa7FmUx7YxTbiy6tEsX",
+    "genre": "road-trip",
+    "track_name": "Don't You (Forget About Me) - 2001 Remastered Version",
+    "artist_name": "Various Artists",
+    "valence": 0.718,
+    "energy": 0.777,
+    "mood_vec": [
+      0.718,
+      0.777
+    ],
+    "distances": 0.04186884283091668
+  },
+  {
+    "id": "4XsH9zBWPOCdXoH9ZDdS8r",
+    "genre": "funk",
+    "track_name": "Superfly",
+    "artist_name": "Curtis Mayfield",
+    "valence": 0.748,
+    "energy": 0.708,
+    "mood_vec": [
+      0.748,
+      0.708
+    ],
+    "distances": 0.04204759208325731
+  },
+  {
+    "id": "37QuCMe2SASXrkLm5NhT5m",
+    "genre": "spanish",
+    "track_name": "No Me Enseñaste",
+    "artist_name": "Thalia",
+    "valence": 0.788,
+    "energy": 0.73,
+    "mood_vec": [
+      0.788,
+      0.73
+    ],
+    "distances": 0.042941821107167814
+  },
+  {
+    "id": "5vefQfYc9Oxn8VHfgUCi1q",
+    "genre": "british",
+    "track_name": "Fake Tales Of San Francisco",
+    "artist_name": "Arctic Monkeys",
+    "valence": 0.704,
+    "energy": 0.778,
+    "mood_vec": [
+      0.704,
+      0.778
+    ],
+    "distances": 0.053851648071345085
+  },
+  {
+    "id": "31dJeAt20CQu4hm3IcRaMY",
+    "genre": "post-dubstep",
+    "track_name": "I'll Stay",
+    "artist_name": "James Blake",
+    "valence": 0.71,
+    "energy": 0.707,
+    "mood_vec": [
+      0.71,
+      0.707
+    ],
+    "distances": 0.05872818744010414
+  }
+]

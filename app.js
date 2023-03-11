@@ -152,5 +152,5 @@ app.get('/misery' , function(req , res){
 
 app.listen(3000, function(){
   console.log("Server Started");
-  console.log("teaching kai");
+  console.log("teaching kai unteaching kun");
 });
